@@ -1,0 +1,13 @@
+Flask>=3.1.0             # Flask: Lightweight web framework for the backend, providing secure HTTP routing.
+Flask-Talisman>=0.8.0      # Flask-Talisman: Enforces HTTP security headers to protect against common vulnerabilities.
+PyQt6>=6.5.0             # PyQt6: Provides a modern, cross-platform GUI for the desktop application.
+pymupdf>=1.25.0          # PyMuPDF: High-performance library for PDF rendering, editing, and content extraction.
+pypdf>=5.0.0             # pypdf: Comprehensive toolkit for splitting, merging, and manipulating PDF files.
+pytesseract>=0.3.10      # pytesseract: Python wrapper for Tesseract OCR, enabling accurate text recognition in scanned PDFs.
+Pillow>=10.0.0           # Pillow: Imaging library (PIL fork) used for image processing prior to OCR.
+pdf2image>=1.16.0        # pdf2image: Converts PDF pages into images for effective OCR processing.
+ocrmypdf>=14.0.0         # ocrmypdf: Integrates OCR into scanned PDFs by embedding a searchable text layer.
+pyHanko>=0.25.0          # pyHanko: Enables digital signing of PDFs with secure, standards-based cryptographic methods.
+cryptography>=41.0.0     # cryptography: Provides secure encryption and decryption routines essential for PDF protection and signing.
+bandit>=1.7.4            # bandit: Static analysis tool to detect security vulnerabilities in Python code during development.
+pip-audit>=2.4.0         # pip-audit: Scans dependencies for known security issues to ensure adherence to best practices.
